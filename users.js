@@ -47,3 +47,8 @@ const linked = [
         name: "Mueez Ali"
     },
 ]
+
+module.exports ={
+    allUsers:allUsers,
+    linked:linked
+}
